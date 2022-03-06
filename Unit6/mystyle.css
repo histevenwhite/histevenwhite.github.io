@@ -1,5 +1,7 @@
 main {
   background-color: #000;
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
 }
 
 body { 
