@@ -1,0 +1,40 @@
+main {
+  background-color: #000;
+}
+
+body { 
+  background-image: url("/Unit6/Images/starexplode.gif"); 
+  background-repeat: repeat;
+  background-size: cover
+}
+
+li {
+  color: white;
+}
+
+#neonborder {
+  width: auto;
+  height: 50px;
+}
+
+#wrapper {
+  width: 60%
+  margin: auto;
+  margin-top: 30px;
+}
+
+#oddfuture {
+  width: auto;
+  height: 300px;
+  
+}
+
+ul {
+  list-style-image: url("/Unit6/Images/banana.png");
+}
+
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url("/Unit6/Images/neonborder.png") 30 round;
+}
