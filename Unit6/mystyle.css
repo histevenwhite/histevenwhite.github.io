@@ -37,4 +37,14 @@ ul {
   border: 10px solid transparent;
   padding: 15px;
   border-image: url("/Unit6/Images/neonborder.png") 30 round;
+  border-image-width: 20px;
+}
+
+#borderimg2{
+  height: 300px;
+  width: 315px;
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url("/Unit6/Images/neonborder.png") 30 round;
+  border-image-width: 20px;
 }
