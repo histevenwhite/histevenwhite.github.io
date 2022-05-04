@@ -1,6 +1,13 @@
+p.news { 
+  display: none; 
+}
 
-#container { display: none; }
+.content { 
+  display: none; 
+}
 
-#header { display: none; }
+.nav { 
+  display: none; 
+}
 
-#sidebar { display: none; }
+display:none;
